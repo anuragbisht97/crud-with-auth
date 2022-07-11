@@ -50,6 +50,7 @@
                 <div style="color: white;">
                     <h2>Below are some practice that was used due to less time</h2>
                     <h3>->Business Logic on controller</h2>
+                    <h3>->No Validation</h2>
                     <h3>->Non DRY code</h2>
                     <h3>->little to no styling that too inline</h2>
                 </div>
