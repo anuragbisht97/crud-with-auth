@@ -19,3 +19,11 @@ REST CODING STUFF
 
 npm run dev and php artisan serve in diffrent terminal
 -> CRUD working fine.
+
+ENV
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=crud-with-auth
+DB_USERNAME=root
+DB_PASSWORD=
