@@ -52,7 +52,7 @@
                     <h2>CRUD WITH AUTH</h2>
                 </div>
                 <div class="color-it">
-                    <h3>README_FILE.txt included for steps</h3>
+                    <h3>screenshots folder and README_FILE.txt included</h3>
                 </div>
             </div>
         </div>
