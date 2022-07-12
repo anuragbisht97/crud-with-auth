@@ -18,6 +18,10 @@
             body {
                 font-family: 'Nunito', sans-serif;
             }
+            .color-it {
+                color: white;
+                align-items: center;
+            }
         </style>
     </head>
     <body class="antialiased">
@@ -44,17 +48,11 @@
                         </g>
                     </svg>
                 </div>
-                <div class="flex justify-center">
+                <div class="flex justify-center color-it">
                     <h2>CRUD WITH AUTH</h2>
                 </div>
-                <div style="color: white;">
-                    <h2>Below are some practice that was used due to less time</h2>
-                    <h3>->Business Logic on controller</h2>
-                    <h3>->Non DRY code</h2>
-                    <h3>->little to no styling that too inline</h2>
-                </div>
-                <div style="color: white;">
-                    <h2>README FILE INCLUDED FOR STEPS</h2>
+                <div class="color-it">
+                    <h3>README_FILE.txt included for steps</h3>
                 </div>
             </div>
         </div>

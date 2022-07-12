@@ -4,18 +4,20 @@
 4. composer require laravel/breeze
 5. php artisan breeze:install
 6. npm install
-7. npm run dev
-
-IN NEW TERMINAL
-
-8. php artisan serve
-
-IN NEW TERMINAL
-
-9. php artisan make:migration create_products_table
+7. php artisan make:migration create_products_table
 10. php artisan migrate
 
-REST CODING STUFF
+11. coding then
 
-npm run dev and php artisan serve in diffrent terminal
--> CRUD working fine.
+12. .env data below 
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=crud-with-auth
+DB_USERNAME=root
+DB_PASSWORD=
+
+13. "npm run dev" and "php artisan serve" in 2 diffrent terminals
+
+14. bootstrap css and js file in css and js folder inside public/bootstrap folder 
